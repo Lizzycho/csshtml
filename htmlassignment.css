@@ -1,0 +1,42 @@
+body{
+	color:black;
+	background-color:green;
+}
+p{font-family:"Times New Roman", Times, serif;
+}
+p{font-size: 30px;
+}
+div p{
+	font-size: 50px;
+}
+.forli{
+	font-family: fantasy;
+}
+.forli0{
+	position: relative;
+}
+.forli9{
+ position: fixed; top: 0; left: 0;
+}
+#hiliz, #helloliz {
+	color: red;
+	text-transform: capitalize;
+}
+#lizcho {
+  text-transform: uppercase;
+}
+
+#nav{
+	float: left;
+	background-color: pink;
+  height: 300px;
+  width: 100px;
+	padding-top: 100px;
+	margin: 70px;
+	border: 2px solid;
+	position: relative;
+}
+#foo{
+	padding-top: 5px;
+	position:absolute; left: 0;
+}
